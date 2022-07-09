@@ -2,12 +2,12 @@
 ### Your new module based lua UI/Apps library
 
 ## Loadstrings
-- ### Luno
+- ### Luno ([Modules/Luno](https://github.com/specowos/Luna/tree/main/Modules/Luno "Modules/Luno"))
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/specowos/Luna/main/Modules/Luno/Main.lua"))()
 ```
  - ##### [See documentation](https://github.com/specowos/Luna#luno-1 "See documentation")
-- ### Lusr
+- ### Lusr (Modules/Lusr)
 ```lua
 --// In development
 ```

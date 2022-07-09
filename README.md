@@ -4,7 +4,7 @@
 ## Loadstrings
 - ### Luno
 ```lua
-print("hello world")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/specowos/Luna/main/Modules/Luno/Main.lua"))()
 ```
 - ### Lusr
 ```lua

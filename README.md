@@ -53,4 +53,4 @@ Lotify("Notification title", "Notification description", "Defualt", 1, "Light")
 - ##### [Bug, Clutter developer](https://github.com/0zBug "Bug, Clutter developer")
 - ##### Me, UI developer and programer
 
-#### Thank you for checking out Luna!
+# Thank you for checking out Luna!

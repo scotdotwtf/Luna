@@ -6,12 +6,12 @@
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/specowos/Luna/main/Modules/Luno/Main.lua"))()
 ```
- - ##### [See documentation](https://github.com/specowos/Luna#luno-1 "See documentation")
+ - ##### [See documentation](https://github.com/specowos/Luna#luno "See documentation")
 - ### Lusr (Modules/Lusr)
 ```lua
 --// In development
 ```
- - ##### [See documentation](https://github.com/specowos/Luna#lusr-1 "See documentation")
+ - ##### [See documentation](https://github.com/specowos/Luna#lusr "See documentation")
 
 ## Description
 ##### Luna is a module based ui library made with [clutter](https://github.com/0zBug/Clutter "clutter"), a project my friend made which is a roact alternative with flutter based syntax.

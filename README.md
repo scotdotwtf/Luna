@@ -52,5 +52,8 @@ Lotify("Notification title", "Notification description", "Defualt", 1, "Light")
 ## Credits
 - ##### [Bug, Clutter developer](https://github.com/0zBug "Bug, Clutter developer")
 - ##### Me, UI developer and programer
+- ##### [Multiple people, Flutter icons maker/developers](https://github.com/feathericons/feather "Multiple people, Flutter icons maker/developers")
 
-# Thank you for checking out Luna!
+## Thank you for checking out Luna!
+#### Want to contribute? 
+#####Just make a pull request and if I like it I'll accept it.

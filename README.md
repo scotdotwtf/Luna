@@ -56,4 +56,4 @@ Lotify("Notification title", "Notification description", "Defualt", 1, "Light")
 
 ## Thank you for checking out Luna!
 #### Want to contribute? 
-#####Just make a pull request and if I like it I'll accept it.
+##### Just make a pull request and if I like it I'll accept it.

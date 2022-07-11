@@ -1,4 +1,5 @@
 # Luna 🌙 [ UNFINISHED ⛔️ ]
+#### Quick note: none of this is finished, most of it will be finished later. Thanks!
 ### Your new module based lua UI/Apps library
 
 ## Loadstrings
